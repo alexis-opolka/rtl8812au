@@ -25,6 +25,9 @@ Only for use with Linux & Android
      It's described further down, READ THE README!
 ```
 
+> **Note:**  
+> It also works on Fedora 38 (for now).
+
 ### IPERF3 benchmark
 
 **[Device]** Alfa Networks AWUS036ACH<br>
